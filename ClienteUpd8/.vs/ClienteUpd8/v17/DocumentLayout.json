@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\clienteupd8\\ClienteUpd8\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1FE9E359-F618-4F8D-958A-B01745C3E3E4}|ClienteUpd8.Web\\ClienteUpd8.Web.csproj|c:\\users\\user\\source\\repos\\clienteupd8\\clienteupd8\\clienteupd8.web\\pages\\clientes\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1FE9E359-F618-4F8D-958A-B01745C3E3E4}|ClienteUpd8.Web\\ClienteUpd8.Web.csproj|solutionrelative:clienteupd8.web\\pages\\clientes\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1FE9E359-F618-4F8D-958A-B01745C3E3E4}|ClienteUpd8.Web\\ClienteUpd8.Web.csproj|c:\\users\\user\\source\\repos\\clienteupd8\\clienteupd8\\clienteupd8.web\\pages\\clientes\\editar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1FE9E359-F618-4F8D-958A-B01745C3E3E4}|ClienteUpd8.Web\\ClienteUpd8.Web.csproj|solutionrelative:clienteupd8.web\\pages\\clientes\\editar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FE9E359-F618-4F8D-958A-B01745C3E3E4}|ClienteUpd8.Web\\ClienteUpd8.Web.csproj|c:\\users\\user\\source\\repos\\clienteupd8\\clienteupd8\\clienteupd8.web\\pages\\clientes\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FE9E359-F618-4F8D-958A-B01745C3E3E4}|ClienteUpd8.Web\\ClienteUpd8.Web.csproj|solutionrelative:clienteupd8.web\\pages\\clientes\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{610DE2D3-7FD1-4569-A2AB-54CCE56A64D8}|ClienteUpd7.Application\\ClienteUpd7.Application.csproj|c:\\users\\user\\source\\repos\\clienteupd8\\clienteupd8\\clienteupd7.application\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -86,7 +86,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
@@ -138,7 +138,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Editar.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\clienteupd8\\ClienteUpd8\\ClienteUpd8.Web\\Pages\\Clientes\\Editar.cshtml",
               "RelativeDocumentMoniker": "ClienteUpd8.Web\\Pages\\Clientes\\Editar.cshtml",
@@ -151,13 +151,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Editar.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\clienteupd8\\ClienteUpd8\\ClienteUpd8.Web\\Pages\\Clientes\\Editar.cshtml.cs",
               "RelativeDocumentMoniker": "ClienteUpd8.Web\\Pages\\Clientes\\Editar.cshtml.cs",
               "ToolTip": "C:\\Users\\User\\source\\repos\\clienteupd8\\ClienteUpd8\\ClienteUpd8.Web\\Pages\\Clientes\\Editar.cshtml.cs",
               "RelativeToolTip": "ClienteUpd8.Web\\Pages\\Clientes\\Editar.cshtml.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAuwBIAAAA2AAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAuwBAAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-24T22:13:02.676Z",
               "EditorCaption": ""
