@@ -18,7 +18,7 @@ namespace ClienteUpd8.Domain.Entities
         public string Nome { get; set; }
         public string CPF { get; set; }
         [DataType(DataType.Date)]
-        [DisplayFormat(ApplyFormatInEditMode = true, DataFormatString = "{0:dd/MM/yyyy}")]
+        //[DisplayFormat(ApplyFormatInEditMode = true, DataFormatString = "{0:dd/MM/yyyy HH:MM}")]
         public DateTime DataNascimento { get; set; }
         public string Sexo { get; set; }
         [StringLength(350)]
