@@ -1,6 +1,7 @@
 ﻿using ClienteUpd8.Domain.Entities;
 using ClienteUpd8.Domain.Repositories;
 using ClienteUpd8.Infrastructure.Data;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -18,9 +19,9 @@ namespace ClienteUpd8.Infrastructure.Repositories
             _context = context;
         }
 
-        public IEnumerable<Cliente> GetAll()
+        public async Task<IEnumerable<Cliente>> GetAll()
         {
-            return _context.Clientes.ToList();
+            return await _context.Clientes.ToListAsync();
         }
 
         public Cliente GetById(int id)
@@ -28,16 +29,16 @@ namespace ClienteUpd8.Infrastructure.Repositories
             return _context.Clientes.Find(id);
         }
 
-        public void Add(Cliente cliente)
+        public async Task Add(Cliente cliente)
         {
-            _context.Clientes.Add(cliente);
-            _context.SaveChanges();
+            await _context.Clientes.AddAsync(cliente);
+            await _context.SaveChangesAsync();
         }
 
-        public void Update(Cliente cliente)
+        public async Task Update(Cliente cliente)
         {
             _context.Clientes.Update(cliente);
-            _context.SaveChanges();
+            await _context.SaveChangesAsync();
         }
 
         public void Delete(int id)
