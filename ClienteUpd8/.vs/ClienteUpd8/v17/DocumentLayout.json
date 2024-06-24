@@ -7,12 +7,28 @@
       "RelativeMoniker": "D:0:0:{1ACD9616-C7C4-4F4B-B02F-0AD26932C7B3}|ClienteUpd8.Domain\\ClienteUpd8.Domain.csproj|solutionrelative:clienteupd8.domain\\repositories\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62356F64-F397-4865-8684-804F1971BC41}|ClienteUpd8.Infrastructure\\ClienteUpd8.Infrastructure.csproj|c:\\users\\user\\source\\repos\\clienteupd8\\clienteupd8\\clienteupd8.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62356F64-F397-4865-8684-804F1971BC41}|ClienteUpd8.Infrastructure\\ClienteUpd8.Infrastructure.csproj|solutionrelative:clienteupd8.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{610DE2D3-7FD1-4569-A2AB-54CCE56A64D8}|ClienteUpd7.Application\\ClienteUpd7.Application.csproj|c:\\users\\user\\source\\repos\\clienteupd8\\clienteupd8\\clienteupd7.application\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{610DE2D3-7FD1-4569-A2AB-54CCE56A64D8}|ClienteUpd7.Application\\ClienteUpd7.Application.csproj|solutionrelative:clienteupd7.application\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{610DE2D3-7FD1-4569-A2AB-54CCE56A64D8}|ClienteUpd7.Application\\ClienteUpd7.Application.csproj|c:\\users\\user\\source\\repos\\clienteupd8\\clienteupd8\\clienteupd7.application\\interfaces\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{610DE2D3-7FD1-4569-A2AB-54CCE56A64D8}|ClienteUpd7.Application\\ClienteUpd7.Application.csproj|solutionrelative:clienteupd7.application\\interfaces\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FE9E359-F618-4F8D-958A-B01745C3E3E4}|ClienteUpd8.Web\\ClienteUpd8.Web.csproj|c:\\users\\user\\source\\repos\\clienteupd8\\clienteupd8\\clienteupd8.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FE9E359-F618-4F8D-958A-B01745C3E3E4}|ClienteUpd8.Web\\ClienteUpd8.Web.csproj|solutionrelative:clienteupd8.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62356F64-F397-4865-8684-804F1971BC41}|ClienteUpd8.Infrastructure\\ClienteUpd8.Infrastructure.csproj|c:\\users\\user\\source\\repos\\clienteupd8\\clienteupd8\\clienteupd8.infrastructure\\repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62356F64-F397-4865-8684-804F1971BC41}|ClienteUpd8.Infrastructure\\ClienteUpd8.Infrastructure.csproj|solutionrelative:clienteupd8.infrastructure\\repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{62356F64-F397-4865-8684-804F1971BC41}|ClienteUpd8.Infrastructure\\ClienteUpd8.Infrastructure.csproj|c:\\users\\user\\source\\repos\\clienteupd8\\clienteupd8\\clienteupd8.infrastructure\\clienteupd8.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{62356F64-F397-4865-8684-804F1971BC41}|ClienteUpd8.Infrastructure\\ClienteUpd8.Infrastructure.csproj|solutionrelative:clienteupd8.infrastructure\\clienteupd8.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62356F64-F397-4865-8684-804F1971BC41}|ClienteUpd8.Infrastructure\\ClienteUpd8.Infrastructure.csproj|c:\\users\\user\\source\\repos\\clienteupd8\\clienteupd8\\clienteupd8.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62356F64-F397-4865-8684-804F1971BC41}|ClienteUpd8.Infrastructure\\ClienteUpd8.Infrastructure.csproj|solutionrelative:clienteupd8.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1ACD9616-C7C4-4F4B-B02F-0AD26932C7B3}|ClienteUpd8.Domain\\ClienteUpd8.Domain.csproj|c:\\users\\user\\source\\repos\\clienteupd8\\clienteupd8\\clienteupd8.domain\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,8 +42,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\clienteupd8\\ClienteUpd8\\ClienteUpd7.Application\\Services\\ClienteService.cs",
+              "RelativeDocumentMoniker": "ClienteUpd7.Application\\Services\\ClienteService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\clienteupd8\\ClienteUpd8\\ClienteUpd7.Application\\Services\\ClienteService.cs",
+              "RelativeToolTip": "ClienteUpd7.Application\\Services\\ClienteService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T14:26:03.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\clienteupd8\\ClienteUpd8\\ClienteUpd7.Application\\Interfaces\\IClienteService.cs",
+              "RelativeDocumentMoniker": "ClienteUpd7.Application\\Interfaces\\IClienteService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\clienteupd8\\ClienteUpd8\\ClienteUpd7.Application\\Interfaces\\IClienteService.cs",
+              "RelativeToolTip": "ClienteUpd7.Application\\Interfaces\\IClienteService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T14:25:38.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\clienteupd8\\ClienteUpd8\\ClienteUpd8.Web\\Program.cs",
+              "RelativeDocumentMoniker": "ClienteUpd8.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\clienteupd8\\ClienteUpd8\\ClienteUpd8.Web\\Program.cs",
+              "RelativeToolTip": "ClienteUpd8.Web\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T14:20:29.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\clienteupd8\\ClienteUpd8\\ClienteUpd8.Infrastructure\\Repositories\\ClienteRepository.cs",
+              "RelativeDocumentMoniker": "ClienteUpd8.Infrastructure\\Repositories\\ClienteRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\clienteupd8\\ClienteUpd8\\ClienteUpd8.Infrastructure\\Repositories\\ClienteRepository.cs",
+              "RelativeToolTip": "ClienteUpd8.Infrastructure\\Repositories\\ClienteRepository.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T14:14:08.174Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -36,14 +104,14 @@
               "RelativeDocumentMoniker": "ClienteUpd8.Domain\\Repositories\\IClienteRepository.cs",
               "ToolTip": "C:\\Users\\User\\source\\repos\\clienteupd8\\ClienteUpd8\\ClienteUpd8.Domain\\Repositories\\IClienteRepository.cs",
               "RelativeToolTip": "ClienteUpd8.Domain\\Repositories\\IClienteRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-24T14:13:12.223Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "ClienteUpd8.Infrastructure",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\clienteupd8\\ClienteUpd8\\ClienteUpd8.Infrastructure\\ClienteUpd8.Infrastructure.csproj",
               "RelativeDocumentMoniker": "ClienteUpd8.Infrastructure\\ClienteUpd8.Infrastructure.csproj",
@@ -64,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\clienteupd8\\ClienteUpd8\\ClienteUpd8.Infrastructure\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "ClienteUpd8.Infrastructure\\Data\\AppDbContext.cs",
@@ -77,7 +145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Cliente.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\clienteupd8\\ClienteUpd8\\ClienteUpd8.Domain\\Entities\\Cliente.cs",
               "RelativeDocumentMoniker": "ClienteUpd8.Domain\\Entities\\Cliente.cs",
