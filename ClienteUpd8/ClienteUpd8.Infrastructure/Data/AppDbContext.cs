@@ -18,8 +18,11 @@ namespace ClienteUpd8.Infrastructure.Data
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            modelBuilder.Entity<Cliente>().HasKey(p => p.Id);
+
             base.OnModelCreating(modelBuilder);
             // Configurações adicionais do modelo
+
         }
     }
 }
