@@ -20,7 +20,7 @@ namespace ClienteUpd8.Infrastructure.Data
         {
             modelBuilder.Entity<Cliente>().HasKey(p => p.Id);
 
-            modelBuilder.Entity<Cliente>().HasData(new Cliente() { Nome="Andre Sombra"
+            modelBuilder.Entity<Cliente>().HasData(new Cliente() { Id=1, Nome="Andre Sombra"
                 , DataNascimento= new DateTime(1975,3,31)
                 , Cidade="Fortaleza"
                 , Estado="Ceara"

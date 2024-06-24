@@ -1,3 +1,5 @@
+using ClienteUpd7.Application.Interfaces;
+using ClienteUpd7.Application.Services;
 using ClienteUpd8.Domain.Repositories;
 using ClienteUpd8.Infrastructure.Data;
 using ClienteUpd8.Infrastructure.Repositories;
@@ -5,11 +7,13 @@ using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
+builder.Services.AddScoped<AppDbContext>();
+builder.Services.AddScoped<IClienteRepository, ClienteRepository>();
+builder.Services.AddScoped<IClienteService, ClienteService>();
+
 // Add services to the container.
 builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
-
-builder.Services.AddSingleton<IClienteRepository, ClienteRepository>();
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
