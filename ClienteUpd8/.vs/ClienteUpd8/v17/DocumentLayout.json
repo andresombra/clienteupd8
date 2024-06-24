@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\clienteupd8\\ClienteUpd8\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1FE9E359-F618-4F8D-958A-B01745C3E3E4}|ClienteUpd8.Web\\ClienteUpd8.Web.csproj|c:\\users\\user\\source\\repos\\clienteupd8\\clienteupd8\\clienteupd8.web\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1FE9E359-F618-4F8D-958A-B01745C3E3E4}|ClienteUpd8.Web\\ClienteUpd8.Web.csproj|solutionrelative:clienteupd8.web\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1FE9E359-F618-4F8D-958A-B01745C3E3E4}|ClienteUpd8.Web\\ClienteUpd8.Web.csproj|c:\\users\\user\\source\\repos\\clienteupd8\\clienteupd8\\clienteupd8.web\\pages\\clientes\\excluir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FE9E359-F618-4F8D-958A-B01745C3E3E4}|ClienteUpd8.Web\\ClienteUpd8.Web.csproj|solutionrelative:clienteupd8.web\\pages\\clientes\\excluir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FE9E359-F618-4F8D-958A-B01745C3E3E4}|ClienteUpd8.Web\\ClienteUpd8.Web.csproj|c:\\users\\user\\source\\repos\\clienteupd8\\clienteupd8\\clienteupd8.web\\pages\\clientes\\excluir.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FE9E359-F618-4F8D-958A-B01745C3E3E4}|ClienteUpd8.Web\\ClienteUpd8.Web.csproj|solutionrelative:clienteupd8.web\\pages\\clientes\\excluir.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FE9E359-F618-4F8D-958A-B01745C3E3E4}|ClienteUpd8.Web\\ClienteUpd8.Web.csproj|c:\\users\\user\\source\\repos\\clienteupd8\\clienteupd8\\clienteupd8.web\\pages\\clientes\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FE9E359-F618-4F8D-958A-B01745C3E3E4}|ClienteUpd8.Web\\ClienteUpd8.Web.csproj|solutionrelative:clienteupd8.web\\pages\\clientes\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FE9E359-F618-4F8D-958A-B01745C3E3E4}|ClienteUpd8.Web\\ClienteUpd8.Web.csproj|c:\\users\\user\\source\\repos\\clienteupd8\\clienteupd8\\clienteupd8.web\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FE9E359-F618-4F8D-958A-B01745C3E3E4}|ClienteUpd8.Web\\ClienteUpd8.Web.csproj|solutionrelative:clienteupd8.web\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1FE9E359-F618-4F8D-958A-B01745C3E3E4}|ClienteUpd8.Web\\ClienteUpd8.Web.csproj|c:\\users\\user\\source\\repos\\clienteupd8\\clienteupd8\\clienteupd8.web\\pages\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -15,40 +27,28 @@
       "RelativeMoniker": "D:0:0:{1FE9E359-F618-4F8D-958A-B01745C3E3E4}|ClienteUpd8.Web\\ClienteUpd8.Web.csproj|solutionrelative:clienteupd8.web\\pages\\clientes\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1FE9E359-F618-4F8D-958A-B01745C3E3E4}|ClienteUpd8.Web\\ClienteUpd8.Web.csproj|c:\\users\\user\\source\\repos\\clienteupd8\\clienteupd8\\clienteupd8.web\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{1FE9E359-F618-4F8D-958A-B01745C3E3E4}|ClienteUpd8.Web\\ClienteUpd8.Web.csproj|solutionrelative:clienteupd8.web\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{1FE9E359-F618-4F8D-958A-B01745C3E3E4}|ClienteUpd8.Web\\ClienteUpd8.Web.csproj|c:\\users\\user\\source\\repos\\clienteupd8\\clienteupd8\\clienteupd8.web\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FE9E359-F618-4F8D-958A-B01745C3E3E4}|ClienteUpd8.Web\\ClienteUpd8.Web.csproj|solutionrelative:clienteupd8.web\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1FE9E359-F618-4F8D-958A-B01745C3E3E4}|ClienteUpd8.Web\\ClienteUpd8.Web.csproj|c:\\users\\user\\source\\repos\\clienteupd8\\clienteupd8\\clienteupd8.web\\pages\\clientes\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FE9E359-F618-4F8D-958A-B01745C3E3E4}|ClienteUpd8.Web\\ClienteUpd8.Web.csproj|solutionrelative:clienteupd8.web\\pages\\clientes\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1FE9E359-F618-4F8D-958A-B01745C3E3E4}|ClienteUpd8.Web\\ClienteUpd8.Web.csproj|c:\\users\\user\\source\\repos\\clienteupd8\\clienteupd8\\clienteupd8.web\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FE9E359-F618-4F8D-958A-B01745C3E3E4}|ClienteUpd8.Web\\ClienteUpd8.Web.csproj|solutionrelative:clienteupd8.web\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1FE9E359-F618-4F8D-958A-B01745C3E3E4}|ClienteUpd8.Web\\ClienteUpd8.Web.csproj|c:\\users\\user\\source\\repos\\clienteupd8\\clienteupd8\\clienteupd8.web\\pages\\clientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1FE9E359-F618-4F8D-958A-B01745C3E3E4}|ClienteUpd8.Web\\ClienteUpd8.Web.csproj|solutionrelative:clienteupd8.web\\pages\\clientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1FE9E359-F618-4F8D-958A-B01745C3E3E4}|ClienteUpd8.Web\\ClienteUpd8.Web.csproj|c:\\users\\user\\source\\repos\\clienteupd8\\clienteupd8\\clienteupd8.web\\pages\\clientes\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1FE9E359-F618-4F8D-958A-B01745C3E3E4}|ClienteUpd8.Web\\ClienteUpd8.Web.csproj|solutionrelative:clienteupd8.web\\pages\\clientes\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FE9E359-F618-4F8D-958A-B01745C3E3E4}|ClienteUpd8.Web\\ClienteUpd8.Web.csproj|c:\\users\\user\\source\\repos\\clienteupd8\\clienteupd8\\clienteupd8.web\\pages\\clientes\\createxxx.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1FE9E359-F618-4F8D-958A-B01745C3E3E4}|ClienteUpd8.Web\\ClienteUpd8.Web.csproj|solutionrelative:clienteupd8.web\\pages\\clientes\\createxxx.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1FE9E359-F618-4F8D-958A-B01745C3E3E4}|ClienteUpd8.Web\\ClienteUpd8.Web.csproj|c:\\users\\user\\source\\repos\\clienteupd8\\clienteupd8\\clienteupd8.web\\pages\\clientes\\teste.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1FE9E359-F618-4F8D-958A-B01745C3E3E4}|ClienteUpd8.Web\\ClienteUpd8.Web.csproj|solutionrelative:clienteupd8.web\\pages\\clientes\\teste.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1FE9E359-F618-4F8D-958A-B01745C3E3E4}|ClienteUpd8.Web\\ClienteUpd8.Web.csproj|c:\\users\\user\\source\\repos\\clienteupd8\\clienteupd8\\clienteupd8.web\\pages\\clientes\\teste.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1FE9E359-F618-4F8D-958A-B01745C3E3E4}|ClienteUpd8.Web\\ClienteUpd8.Web.csproj|solutionrelative:clienteupd8.web\\pages\\clientes\\teste.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1FE9E359-F618-4F8D-958A-B01745C3E3E4}|ClienteUpd8.Web\\ClienteUpd8.Web.csproj|c:\\users\\user\\source\\repos\\clienteupd8\\clienteupd8\\clienteupd8.web\\pages\\clientes\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FE9E359-F618-4F8D-958A-B01745C3E3E4}|ClienteUpd8.Web\\ClienteUpd8.Web.csproj|solutionrelative:clienteupd8.web\\pages\\clientes\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1FE9E359-F618-4F8D-958A-B01745C3E3E4}|ClienteUpd8.Web\\ClienteUpd8.Web.csproj|c:\\users\\user\\source\\repos\\clienteupd8\\clienteupd8\\clienteupd8.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1FE9E359-F618-4F8D-958A-B01745C3E3E4}|ClienteUpd8.Web\\ClienteUpd8.Web.csproj|solutionrelative:clienteupd8.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62356F64-F397-4865-8684-804F1971BC41}|ClienteUpd8.Infrastructure\\ClienteUpd8.Infrastructure.csproj|c:\\users\\user\\source\\repos\\clienteupd8\\clienteupd8\\clienteupd8.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62356F64-F397-4865-8684-804F1971BC41}|ClienteUpd8.Infrastructure\\ClienteUpd8.Infrastructure.csproj|solutionrelative:clienteupd8.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1FE9E359-F618-4F8D-958A-B01745C3E3E4}|ClienteUpd8.Web\\ClienteUpd8.Web.csproj|c:\\users\\user\\source\\repos\\clienteupd8\\clienteupd8\\clienteupd8.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -82,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -94,59 +94,98 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\clienteupd8\\ClienteUpd8\\ClienteUpd8.Web\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "ClienteUpd8.Web\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\clienteupd8\\ClienteUpd8\\ClienteUpd8.Web\\Pages\\Index.cshtml",
+              "RelativeToolTip": "ClienteUpd8.Web\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T21:53:59.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\clienteupd8\\ClienteUpd8\\ClienteUpd8.Web\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "ClienteUpd8.Web\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\clienteupd8\\ClienteUpd8\\ClienteUpd8.Web\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "ClienteUpd8.Web\\Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T21:44:23.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Excluir.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\clienteupd8\\ClienteUpd8\\ClienteUpd8.Web\\Pages\\Clientes\\Excluir.cshtml.cs",
+              "RelativeDocumentMoniker": "ClienteUpd8.Web\\Pages\\Clientes\\Excluir.cshtml.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\clienteupd8\\ClienteUpd8\\ClienteUpd8.Web\\Pages\\Clientes\\Excluir.cshtml.cs",
+              "RelativeToolTip": "ClienteUpd8.Web\\Pages\\Clientes\\Excluir.cshtml.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAYwB0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T21:33:40.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\clienteupd8\\ClienteUpd8\\ClienteUpd8.Web\\Pages\\Clientes\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "ClienteUpd8.Web\\Pages\\Clientes\\Index.cshtml.cs",
               "ToolTip": "C:\\Users\\User\\source\\repos\\clienteupd8\\ClienteUpd8\\ClienteUpd8.Web\\Pages\\Clientes\\Index.cshtml.cs",
               "RelativeToolTip": "ClienteUpd8.Web\\Pages\\Clientes\\Index.cshtml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "ViewState": "AQIAACQAAAAAAAAAAAAswDkAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-24T20:28:47.37Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\clienteupd8\\ClienteUpd8\\ClienteUpd8.Web\\Pages\\Clientes\\Index.cshtml",
               "RelativeDocumentMoniker": "ClienteUpd8.Web\\Pages\\Clientes\\Index.cshtml",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\clienteupd8\\ClienteUpd8\\ClienteUpd8.Web\\Pages\\Clientes\\Index.cshtml*",
-              "RelativeToolTip": "ClienteUpd8.Web\\Pages\\Clientes\\Index.cshtml*",
-              "ViewState": "AQIAABwAAAAAAAAAAAAAAC4AAABfAAAA",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\clienteupd8\\ClienteUpd8\\ClienteUpd8.Web\\Pages\\Clientes\\Index.cshtml",
+              "RelativeToolTip": "ClienteUpd8.Web\\Pages\\Clientes\\Index.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-24T20:27:59.795Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\clienteupd8\\ClienteUpd8\\ClienteUpd8.Web\\Pages\\Clientes\\Create.cshtml",
               "RelativeDocumentMoniker": "ClienteUpd8.Web\\Pages\\Clientes\\Create.cshtml",
               "ToolTip": "C:\\Users\\User\\source\\repos\\clienteupd8\\ClienteUpd8\\ClienteUpd8.Web\\Pages\\Clientes\\Create.cshtml",
               "RelativeToolTip": "ClienteUpd8.Web\\Pages\\Clientes\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAxAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADcAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-24T20:12:40.544Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Create.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\clienteupd8\\ClienteUpd8\\ClienteUpd8.Web\\Pages\\Clientes\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "ClienteUpd8.Web\\Pages\\Clientes\\Create.cshtml.cs",
               "ToolTip": "C:\\Users\\User\\source\\repos\\clienteupd8\\ClienteUpd8\\ClienteUpd8.Web\\Pages\\Clientes\\Create.cshtml.cs",
               "RelativeToolTip": "ClienteUpd8.Web\\Pages\\Clientes\\Create.cshtml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAjAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB8AAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-24T20:14:01.687Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Teste.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\clienteupd8\\ClienteUpd8\\ClienteUpd8.Web\\Pages\\Clientes\\Teste.cshtml.cs",
               "RelativeDocumentMoniker": "ClienteUpd8.Web\\Pages\\Clientes\\Teste.cshtml.cs",
@@ -159,7 +198,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "List.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\clienteupd8\\ClienteUpd8\\ClienteUpd8.Web\\Pages\\Clientes\\List.cshtml",
               "RelativeDocumentMoniker": "ClienteUpd8.Web\\Pages\\Clientes\\List.cshtml",
@@ -172,54 +211,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Teste.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\clienteupd8\\ClienteUpd8\\ClienteUpd8.Web\\Pages\\Clientes\\Teste.cshtml",
-              "RelativeDocumentMoniker": "ClienteUpd8.Web\\Pages\\Clientes\\Teste.cshtml",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\clienteupd8\\ClienteUpd8\\ClienteUpd8.Web\\Pages\\Clientes\\Teste.cshtml",
-              "RelativeToolTip": "ClienteUpd8.Web\\Pages\\Clientes\\Teste.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABBAAAA",
+              "DocumentIndex": 0,
+              "Title": "Excluir.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\clienteupd8\\ClienteUpd8\\ClienteUpd8.Web\\Pages\\Clientes\\Excluir.cshtml",
+              "RelativeDocumentMoniker": "ClienteUpd8.Web\\Pages\\Clientes\\Excluir.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\clienteupd8\\ClienteUpd8\\ClienteUpd8.Web\\Pages\\Clientes\\Excluir.cshtml",
+              "RelativeToolTip": "ClienteUpd8.Web\\Pages\\Clientes\\Excluir.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-24T20:05:20.048Z",
+              "WhenOpened": "2024-06-24T21:32:37.624Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "CreateXXX.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\clienteupd8\\ClienteUpd8\\ClienteUpd8.Web\\Pages\\Clientes\\CreateXXX.cshtml",
-              "RelativeDocumentMoniker": "ClienteUpd8.Web\\Pages\\Clientes\\CreateXXX.cshtml",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\clienteupd8\\ClienteUpd8\\ClienteUpd8.Web\\Pages\\Clientes\\CreateXXX.cshtml",
-              "RelativeToolTip": "ClienteUpd8.Web\\Pages\\Clientes\\CreateXXX.cshtml",
-              "ViewState": "AQIAABgAAAAAAAAAAAAowCUAAABJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-24T18:58:22.142Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\clienteupd8\\ClienteUpd8\\ClienteUpd8.Web\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ClienteUpd8.Web\\Pages\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\User\\source\\repos\\clienteupd8\\ClienteUpd8\\ClienteUpd8.Web\\Pages\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "ClienteUpd8.Web\\Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAADgAAAACAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-24T20:35:34.186Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "site.js",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\clienteupd8\\ClienteUpd8\\ClienteUpd8.Web\\wwwroot\\js\\site.js",
-              "RelativeDocumentMoniker": "ClienteUpd8.Web\\wwwroot\\js\\site.js",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\clienteupd8\\ClienteUpd8\\ClienteUpd8.Web\\wwwroot\\js\\site.js",
-              "RelativeToolTip": "ClienteUpd8.Web\\wwwroot\\js\\site.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-06-24T20:49:57.758Z",
               "EditorCaption": ""
             },
             {
@@ -250,7 +263,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\clienteupd8\\ClienteUpd8\\ClienteUpd8.Web\\Program.cs",
               "RelativeDocumentMoniker": "ClienteUpd8.Web\\Program.cs",
@@ -298,19 +311,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-24T17:43:17.01Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\clienteupd8\\ClienteUpd8\\ClienteUpd8.Infrastructure\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "ClienteUpd8.Infrastructure\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\clienteupd8\\ClienteUpd8\\ClienteUpd8.Infrastructure\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "ClienteUpd8.Infrastructure\\Data\\AppDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T14:10:24.959Z",
               "EditorCaption": ""
             },
             {
