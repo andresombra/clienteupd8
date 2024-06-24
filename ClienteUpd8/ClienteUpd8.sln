@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClienteUpd8.Infrastructure"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClienteUpd8.Web", "ClienteUpd8.Web\ClienteUpd8.Web.csproj", "{1FE9E359-F618-4F8D-958A-B01745C3E3E4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClienteUpd7.Application", "ClienteUpd7.Application\ClienteUpd7.Application.csproj", "{610DE2D3-7FD1-4569-A2AB-54CCE56A64D8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClienteUpd8.Application", "ClienteUpd7.Application\ClienteUpd8.Application.csproj", "{610DE2D3-7FD1-4569-A2AB-54CCE56A64D8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

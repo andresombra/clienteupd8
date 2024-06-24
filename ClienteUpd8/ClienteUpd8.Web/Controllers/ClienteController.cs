@@ -15,6 +15,12 @@ namespace ClienteUpd8.Web.Controllers
             _clienteService = clienteService;
         }
 
+        public void Post()
+        {
+
+        }
+
+
         public ActionResult Index()
         {
             return View();
