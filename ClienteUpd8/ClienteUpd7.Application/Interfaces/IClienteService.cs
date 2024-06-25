@@ -10,7 +10,7 @@ namespace ClienteUpd7.Application.Interfaces
     public interface IClienteService
     {
         Task<IEnumerable<Cliente>> ListarTodosClientes();
-        Cliente BuscarId(int id);
+        Task<Cliente> BuscarId(int id);
         Task Incluir(Cliente cliente);
         Task Alterar(Cliente cliente);
         void Excluir(int id);

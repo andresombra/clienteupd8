@@ -18,8 +18,19 @@ namespace ClienteUpd8.Infrastructure.Data
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            modelBuilder.Entity<Cliente>().HasKey(p => p.Id);
+
+            modelBuilder.Entity<Cliente>().HasData(new Cliente() { Id=1, Nome="Andre Sombra"
+                , DataNascimento= new DateTime(1975,3,31)
+                , Cidade="Fortaleza"
+                , Estado="Ceara"
+                , Endereco="Rua Nove, 40"
+                , CPF="580.941.213-00"
+                , Sexo="M"});
+
             base.OnModelCreating(modelBuilder);
             // Configurações adicionais do modelo
+
         }
     }
 }
