@@ -1,0 +1,44 @@
+﻿@page
+@model ClienteUpd8.Web.ViewModel.ClienteViewModel
+@{
+}
+
+<div class="row">
+    <div class="col-md-4">
+        <form method="post" asp-controlle="Clientes" asp-action="Create">
+           
+            <div class="form-group"></br></div>
+            <div class="form-group">
+                <input type="submit" value="Salvar" class="btn btn-primary" />
+                <a class="btn btn-warning" onclick="history.go(-1)">Voltar</a>
+
+            </div>
+        </form>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-4">
+        <form method="post" asp-action=".Clientes/Create">
+
+            <div class="form-group"></br></div>
+            <div class="form-group">
+                <input type="submit" value="Salvar" class="btn btn-primary" />
+                <a class="btn btn-warning" onclick="history.go(-1)">Voltar</a>
+
+            </div>
+        </form>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-4">
+        <form method="post" asp-action="/.Clientes/Create">
+
+            <div class="form-group"></br></div>
+            <div class="form-group">
+                <input type="submit" value="Salvar" class="btn btn-primary" />
+                <a class="btn btn-warning" onclick="history.go(-1)">Voltar</a>
+
+            </div>
+        </form>
+    </div>
+</div>
