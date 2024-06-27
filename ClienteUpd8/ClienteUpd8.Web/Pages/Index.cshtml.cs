@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
+using System.Configuration;
 
 namespace BlogApp.Pages
 {
@@ -14,7 +15,7 @@ namespace BlogApp.Pages
 
         public void OnGet()
         {
-
+           
         }
     }
 }
